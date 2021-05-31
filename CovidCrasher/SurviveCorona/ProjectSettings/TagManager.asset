@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Covid
+  - AttackButton
+  - Joystick
+  - FinalCovid
+  - EndScreen
+  - CompleteScreen
+  - Spikes
+  - Hearts
+  - Heart1
+  - Heart2
+  - Heart3
+  - Heart4
+  - Heart5
+  - FinalCovidError
+  - SFX
+  - Bricks
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bricks
+  - Enemies
+  - FinalCovid
+  - CompleteScreen
+  - EndScreen
+  - Joystick
+  - AttackButton
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1617823577
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Canvas
+    uniqueID: 594002041
+    locked: 0
